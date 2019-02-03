@@ -1,0 +1,53 @@
+﻿Popular Topping Report
+
+Getting topping data
+
+Here is your report :)
+
+Top 20 Topping Combinations
+
+Rank: 1 | Combination: four cheese,pepperoni | Count 203
+Rank: 2 | Combination: mozzarella cheese,pepperoni | Count 155
+Rank: 3 | Combination: beef,pepperoni | Count 122
+Rank: 4 | Combination: bacon,pepperoni | Count 121
+Rank: 5 | Combination: pepperoni,sausage | Count 96
+Rank: 6 | Combination: italian sausage,pepperoni | Count 85
+Rank: 7 | Combination: jalapenos,pepperoni | Count 67
+Rank: 8 | Combination: mushrooms,pepperoni | Count 60
+Rank: 9 | Combination: bacon,pineapple | Count 39
+Rank: 10 | Combination: bacon,mushrooms | Count 30
+Rank: 11 | Combination: bacon,canadian bacon,pineapple,sausage | Count 30
+Rank: 12 | Combination: black olives,pepperoni | Count 28
+Rank: 13 | Combination: bacon,four cheese | Count 25
+Rank: 14 | Combination: beef,four cheese | Count 24
+Rank: 15 | Combination: bacon,beef | Count 24
+Rank: 16 | Combination: four cheese,mozzarella cheese | Count 23
+Rank: 17 | Combination: ham,pineapple | Count 21
+Rank: 18 | Combination: bacon,italian sausage | Count 21
+Rank: 19 | Combination: ham,pepperoni | Count 20
+Rank: 20 | Combination: pepperoni,pineapple | Count 19
+
+Top 20 Toppings
+
+Rank: 1 | Topping: pepperoni | Count 6335
+Rank: 2 | Topping: four cheese | Count 1611
+Rank: 3 | Topping: mozzarella cheese | Count 1461
+Rank: 4 | Topping: bacon | Count 1447
+Rank: 5 | Topping: beef | Count 1140
+Rank: 6 | Topping: sausage | Count 831
+Rank: 7 | Topping: mushrooms | Count 733
+Rank: 8 | Topping: italian sausage | Count 672
+Rank: 9 | Topping: black olives | Count 456
+Rank: 10 | Topping: chicken | Count 401
+Rank: 11 | Topping: pineapple | Count 360
+Rank: 12 | Topping: ham | Count 341
+Rank: 13 | Topping: jalapenos | Count 258
+Rank: 14 | Topping: green peppers | Count 206
+Rank: 15 | Topping: canadian bacon | Count 174
+Rank: 16 | Topping: diced white onions | Count 168
+Rank: 17 | Topping: cheddar cheese | Count 154
+Rank: 18 | Topping: diced tomatoes | Count 128
+Rank: 19 | Topping: alredo sauce | Count 127
+Rank: 20 | Topping: onions | Count 121
+
+Hit Enter to Close Application
